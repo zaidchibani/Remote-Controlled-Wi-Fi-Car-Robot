@@ -219,9 +219,8 @@ mosquitto -v
 This project is provided as-is for educational purposes.
 
 ## Contributors
-
-Your Name - Initial work
-
+-Zaid Chibani
+-ChihabEddin Zadem
 ## Acknowledgments
 
 - ASCON cipher implementation
