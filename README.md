@@ -176,7 +176,7 @@ A secure robot control system using MQTT protocol with ASCON-128 encryption. The
 - Publishes encrypted messages to MQTT broker
 - Appends authentication tag for integrity verification
 
-### 2. ESP32 Robot (`esp.cpp`)
+### 2. ESP32 Robot
 - Subscribes to MQTT topic
 - Receives encrypted commands
 - Decrypts messages using ASCON-128
